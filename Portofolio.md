@@ -1,4 +1,4 @@
-# Roblox LuaU Scripter Portfolio
+# Roblox LuaU Scripter
 
 **Discord:** sentrysvc (severity)
 
@@ -19,3 +19,8 @@ I am a Roblox LuaU scripter with over 2 years of experience.
 ## Contact
 
 Feel free to reach out to me on Discord: **sentrysvc (severity)**
+
+# Other Stuff i Can Do:
+
+- **Modeling**
+- **Ui Designing**
